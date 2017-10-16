@@ -1,0 +1,7 @@
+function BaiTap015()
+    %% Load Data Train
+    [imgDataTrain, lblDataTrain] = loadData('train-images.idx3-ubyte','train-labels.idx1-ubyte');
+    
+    %% Extract Features
+    featuresDataTrain = ExtractFe
+end

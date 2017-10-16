@@ -1,0 +1,7 @@
+function BaiTap014()
+    imgTrainAll = loadMNISTImages('train-images.idx3-ubyte');
+    lblTrainAll = loadMNISTLabels('train-labels.idx1-ubyte');
+    
+    imgI1D = imgTrainAll(:,1);
+    imgI2D = res
+end
